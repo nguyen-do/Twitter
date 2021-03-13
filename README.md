@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/VQuxm4yQ.gif' />
+<img src='https://i.imgur.com/DfSpzRn.gif' />
 
 
 # Twitter - Part I
